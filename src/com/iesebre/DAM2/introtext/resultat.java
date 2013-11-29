@@ -34,12 +34,6 @@ public class resultat extends Activity {
             getActionBar().setDisplayHomeAsUpEnabled(true);
         }
     }
-
-    
-    
-    
-    
-
-        
+  
     }
 
